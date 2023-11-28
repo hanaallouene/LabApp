@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "id": "1245",
+      "cin": "1245",
+      "name": "chaima",
+      "createdDate": "12/12/22",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf?fbclid=IwAR2K0AH-J__eQgbirWaVCle_3S-HRU-iuYjMniD_miZ1P5bE2R83yoSBy8U",
+      "type": "teacher"
+    },
+    {
+      "id": "5555",
+      "cin": "1545",
+      "name": "hana",
+      "createdDate": "10/12/22",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf?fbclid=IwAR2K0AH-J__eQgbirWaVCle_3S-HRU-iuYjMniD_miZ1P5bE2R83yoSBy8U",
+      "type": "student"
+    },
+    {
+      "id": "4444",
+      "cin": "1445",
+      "name": "asma",
+      "createdDate": "18/12/22",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf?fbclid=IwAR2K0AH-J__eQgbirWaVCle_3S-HRU-iuYjMniD_miZ1P5bE2R83yoSBy8U",
+      "type": "teacher"
+    }
+  ]
+}

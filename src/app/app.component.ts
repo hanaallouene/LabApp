@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Lab';
+  title = 'FirstApp';
 }
+//data binding : passage du contenu ts vers html du même composant => string interpolation {{}} 
